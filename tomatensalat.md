@@ -1,4 +1,6 @@
-# Zutaten
+# Tomatensalat
+
+## Zutaten
 
 - 500 g Tomaten - Sorte nach Wahl, z.B. Strauchtomaten
 - 15 g Petersilie - glatt oder kraus nach Wunsch

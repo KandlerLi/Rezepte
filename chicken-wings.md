@@ -1,4 +1,6 @@
-# Zutaten (für 3-4 Personen)
+# Chicken Wings
+
+## Zutaten (für 3-4 Personen)
 
 - 1 kg Chicken Wings
 - 2 EL Aprikosen Marmelade
@@ -10,7 +12,7 @@
 - 1 Knoblauchzehe
 - Salz, Pfeffer, Paprikapulver
 
-# Zubereitung
+## Zubereitung
 
 Zunächst die Chicken Wings säubern und anschließend trocken tupfen. Die Chicken Wings in eine ausreichend große Auflaufform geben. Aus hygienischen Gründen anschließend die Hände und die Arbeitsplatte gründlich reinigen.
 
@@ -18,4 +20,4 @@ In einer anderen Schüssel die Marinade zubereiten. Dafür alle Zutaten für das
 
 Nun die Marinade über die Chicken Wings geben und alles gut vermischen. So, dass alle Hähnchenteile gut mit der Marinade überzogen sind. Für mindestens eine halbe Stunde marinieren.
 
-![](./chicken-wings.jpg)
+![Chicken Wings](./chicken-wings.jpg)
