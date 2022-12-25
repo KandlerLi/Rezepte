@@ -27,3 +27,5 @@
 - Am nächsten Tag 100ml Wein und 100ml Saft von den Kirschen zusammen mit der Zimtstange aufkochen.
 - Stärke einrühren und Kirschen für 5 Minuten mitkochen
 - Parfait zusammen mit Kirschen servieren.
+
+![Spekulatius Parfait](./spekulatius-parfait.jpg)
