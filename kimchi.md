@@ -19,7 +19,7 @@
 ## 1. Chinakohl kleinschneiden
 
 > 1kg Chinakohl  
-25g Salz
+25g Salz  
 
 - Kohl in Streifen schneiden
 - Salzen
@@ -28,8 +28,8 @@
 ## 2. Marinade kochen
 
 > 100ml Brühe  
-2 TL Reismehl
-2 EL Rohrzucker
+2 TL Reismehl  
+2 EL Rohrzucker  
 
 - Alles kochen bis Brei entsteht
 - Abkühlen lassen
@@ -40,9 +40,9 @@
 6 Knoblauch  
 1 Nashi Birne  
 1 Stück Ingwer  
-5 EL Sojasauce
-2 EL Paprika Pulver
-Chilipulver
+5 EL Sojasauce  
+2 EL Paprika Pulver  
+Chilipulver  
 
 - Alles zusammen mixen
 
